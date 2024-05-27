@@ -1,0 +1,35 @@
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.exe
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.deps.json
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.runtimeconfig.json
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.pdb
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.csproj.AssemblyReference.cache
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto_Catalogo_de_Veículos.Form1.resources
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto_Catalogo_de_Veículos.Properties.Resources.resources
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.csproj.GenerateResource.cache
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.AssemblyInfoInputs.cache
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.AssemblyInfo.cs
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.csproj.CoreCompileInputs.cache
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.csproj.CopyComplete
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\refint\Projeto Catalogo-de-Veículos.dll
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.pdb
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\Projeto Catalogo-de-Veículos.genruntimeconfig.cache
+C:\Users\emers\Desktop\repositorios\Projeto Catalogo-de-Veículos\obj\Debug\net8.0-windows\ref\Projeto Catalogo-de-Veículos.dll
